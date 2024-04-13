@@ -19,17 +19,20 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
- git clone <repository-url>
+ git clone git@github.com:ikmrn/traverse-parallax.git
 ```
 
-ode
-git clone <repository-url> 2. Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
-cd tourism-company-landing-page
+cd traverse-parallax
 ```
 
-3. Open the index.html file in your web browser or serve it using a local server.
+3. Run with node
+
+```bash
+npm run dev
+```
 
 ## Credits
 
